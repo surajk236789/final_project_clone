@@ -35,6 +35,7 @@ It demonstrates how to build and deploy a Flask-based web application that perfo
    git clone https://github.com/surajk236789/final_project_clone/tree/fianl_project_dev
 
 pip install flask requests
+
 python3 EmotionDetection/server.py
 
 
